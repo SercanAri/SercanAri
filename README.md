@@ -18,7 +18,6 @@
 
 [<img width="48" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-1024.png" align="left" />][gmail]
 [<img width="48" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" align="left" />][linkedin]
-[<img width="48" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-1024.png" align="left" />][twitter]
 
 <br />
 <br />
@@ -37,7 +36,6 @@
 
 [gmail]: https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=sercanari1904@gmail.com
 [linkedin]: https://www.linkedin.com/in/sercan-ari/
-[twitter]: https://twitter.com/sercanari_
 
 
 
