@@ -32,6 +32,11 @@
   <summary>:bulb: Most Used Languages </summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SercanAri" >
   </details>
+  
+  <details>
+  <summary>:bulb: Profil Views </summary>
+  <img src="https://komarev.com/ghpvc/?username=SercanAri" >
+  </details>
 
 
 [gmail]: https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=sercanari1904@gmail.com
