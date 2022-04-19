@@ -43,6 +43,4 @@
 [linkedin]: https://www.linkedin.com/in/sercan-ari/
 
 
-
-
-![1_hZmJ0TbDG4QmBkaoBNfW_Q](https://user-images.githubusercontent.com/95919248/158037908-190eb385-afe5-49e4-8194-655ea356d38f.png)
+![flutter](https://i.hizliresim.com/enz291i.png)
