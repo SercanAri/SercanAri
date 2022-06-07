@@ -1,6 +1,6 @@
 ### Hi there ,
 
-🏆 I've learned Flutter SDK, Dart Programming Language, SQL, GIT.
+🏆 I've learned Flutter SDK, Dart Programming Language, GIT.
 
 👯 Enthusiastic Mobile App Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 
