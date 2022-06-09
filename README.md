@@ -1,7 +1,4 @@
 ### Hi there ,
-![right-here-right-now-goal-celebration](https://user-images.githubusercontent.com/95919248/172943861-453e60e7-50fc-4144-86be-6c319d1c1ce5.gif)
-
-
 
 🏆 I've learned Flutter SDK, Dart Programming Language, GIT.
 
@@ -45,5 +42,5 @@
 [gmail]: https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=sercanari1904@gmail.com
 [linkedin]: https://www.linkedin.com/in/sercan-ari/
 
-
+![right-here-right-now-goal-celebration](https://user-images.githubusercontent.com/95919248/172943861-453e60e7-50fc-4144-86be-6c319d1c1ce5.gif)
 ![flutter](https://i.hizliresim.com/enz291i.png)
