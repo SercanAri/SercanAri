@@ -1,4 +1,4 @@
-### Hi there ✋,
+### Hi there :wave:
 
 
 
@@ -29,17 +29,17 @@
 <br />
 
 <details>
-  <summary>:bulb: Github Stats </summary>
+  <summary>:man_technologist: Github Stats </summary>
   <img src="https://github-readme-stats.vercel.app/api?username=SercanAri" >
   </details>
   
   <details>
-  <summary>:bulb: Most Used Languages </summary>
+  <summary>:man_technologist: Most Used Languages </summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SercanAri" >
   </details>
   
   <details>
-  <summary>:bulb: Profil Views </summary>
+  <summary>:man_technologist: Profil Views </summary>
   <img src="https://komarev.com/ghpvc/?username=SercanAri" >
   </details>
 
