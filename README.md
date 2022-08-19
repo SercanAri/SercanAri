@@ -1,8 +1,7 @@
 ### Hi there :wave:
 
 
-
-![right-here-right-now-goal-celebration](https://user-images.githubusercontent.com/95919248/172943861-453e60e7-50fc-4144-86be-6c319d1c1ce5.gif)
+![giphy](https://user-images.githubusercontent.com/95919248/185713467-2e91cb86-0b11-4452-b399-9ad672f73377.gif)
 
 
 🏆 I've learned Flutter SDK, Dart Programming Language, GIT.
