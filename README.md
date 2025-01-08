@@ -44,5 +44,3 @@
 
 [gmail]: https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=sercanari1904@gmail.com
 [linkedin]: https://www.linkedin.com/in/sercan-ari/
-
-![flutter](https://i.hizliresim.com/enz291i.png)
